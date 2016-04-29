@@ -682,7 +682,7 @@ Asteroid = function () {
               -4, -10,
               -4,  -5]);
 
-  this.color = 'lightgray';
+  this.color = 'gray';
   this.solid = true;
   this.visible = true;
   this.scale = 6;
@@ -723,7 +723,7 @@ Coin = function () {
               0,  5,
               5,  0,
               0, -5]);
-  this.color = 'yellow';
+  this.color = 'green';
 this.solid = true;
 
   this.collidesWith = ["ship"];
