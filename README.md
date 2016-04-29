@@ -1,4 +1,4 @@
 # terrene
 
-terrebe is devloped using html5 canvas and javascript 
+terrene is arcade ganme devloped using html5 canvas and javascript 
 
